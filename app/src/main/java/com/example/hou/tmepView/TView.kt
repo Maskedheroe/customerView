@@ -2,6 +2,7 @@ package com.example.hou.tmepView
 
 import android.content.Context
 import android.graphics.*
+import android.support.v7.widget.LinearLayoutCompat
 import android.text.TextPaint
 import android.util.AttributeSet
 import android.view.View
